@@ -5,6 +5,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
+    background-image: url("thala.png");
   }
   
   .container {
@@ -31,7 +32,4 @@ body {
     margin-top: 20px;
   }
   
-  button {
-    padding-bottom: 50px;
-  }
   
